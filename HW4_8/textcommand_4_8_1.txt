@@ -1,0 +1,179 @@
+/home/ladniy:
+итого 204864
+-rw-r--r-- 1 ladniy ladniy      8980 мая  9 20:03 examples.desktop
+drwxr-xr-x 2 ladniy ladniy      4096 мая 12 10:28 HW4_8
+drwxr-xr-x 2 ladniy ladniy      4096 мая 12 10:28 HW4_8_scripts
+-rw-r--r-- 1 ladniy ladniy 209715200 мая 11 12:47 quotatest.txt
+-rw-r--r-- 1 ladniy ladniy         0 мая 11 12:25 quota.user
+drwxr-xr-x 5 ladniy ladniy      4096 мая  9 22:35 snap
+drwxrwxr-x 4 ladniy ladniy      4096 мая 11 17:36 VirtualBox VMs
+drwxr-xr-x 2 ladniy ladniy      4096 мая  9 20:15 Видео
+drwxr-xr-x 3 ladniy ladniy      4096 мая  9 21:32 Документы
+drwxr-xr-x 3 ladniy ladniy      4096 мая 12 10:17 Загрузки
+drwxr-xr-x 2 ladniy ladniy      4096 мая 12 09:45 Изображения
+drwxr-xr-x 2 ladniy ladniy      4096 мая  9 20:15 Музыка
+drwxr-xr-x 2 ladniy ladniy      4096 мая  9 20:15 Общедоступные
+drwxr-xr-x 3 ladniy ladniy      4096 мая 11 11:37 Рабочий стол
+drwxr-xr-x 2 ladniy ladniy      4096 мая  9 20:15 Шаблоны
+
+/home/ladniy/HW4_8:
+итого 0
+-rw-r--r-- 1 ladniy ladniy 0 мая 12 10:28 textcommand_4_8_1.txt
+
+/home/ladniy/HW4_8_scripts:
+итого 16
+-rwxr-xr-x 1 ladniy ladniy   66 мая 12 10:28 4_8_1.sh
+-rw-r--r-- 1 ladniy ladniy 8879 мая 12 10:23 textcommand_4_8_1.txt
+
+/home/ladniy/snap:
+итого 12
+drwxr-xr-x 4 ladniy ladniy 4096 мая  9 22:35 gnome-system-monitor
+drwxr-xr-x 4 ladniy ladniy 4096 мая  9 21:19 skype
+drwxr-xr-x 4 ladniy ladniy 4096 мая  9 21:46 telegram-desktop
+
+/home/ladniy/snap/gnome-system-monitor:
+итого 8
+drwxr-xr-x 4 ladniy ladniy 4096 мая  9 22:35 127
+drwxr-xr-x 3 ladniy ladniy 4096 мая  9 22:35 common
+lrwxrwxrwx 1 ladniy ladniy    3 мая  9 22:35 current -> 127
+
+/home/ladniy/snap/gnome-system-monitor/127:
+итого 0
+
+/home/ladniy/snap/gnome-system-monitor/common:
+итого 0
+
+/home/ladniy/snap/skype:
+итого 8
+drwxr-xr-x 2 ladniy ladniy 4096 мая  9 21:19 123
+drwxr-xr-x 7 ladniy ladniy 4096 мая  9 21:25 common
+lrwxrwxrwx 1 ladniy ladniy    3 мая  9 21:19 current -> 123
+
+/home/ladniy/snap/skype/123:
+итого 0
+
+/home/ladniy/snap/skype/common:
+итого 0
+
+/home/ladniy/snap/telegram-desktop:
+итого 8
+drwxr-xr-x 4 ladniy ladniy 4096 мая  9 21:46 1616
+drwxr-xr-x 3 ladniy ladniy 4096 мая  9 21:46 common
+lrwxrwxrwx 1 ladniy ladniy    4 мая  9 21:46 current -> 1616
+
+/home/ladniy/snap/telegram-desktop/1616:
+итого 0
+
+/home/ladniy/snap/telegram-desktop/common:
+итого 0
+
+/home/ladniy/VirtualBox VMs:
+итого 8
+drwxrwxr-x 3 ladniy ladniy 4096 мая 11 17:36 Centos7
+drwxrwxr-x 3 ladniy ladniy 4096 мая 11 17:38 Ubuntu 18
+
+/home/ladniy/VirtualBox VMs/Centos7:
+итого 1662004
+-rw------- 1 ladniy ladniy       2985 мая 11 17:36 Centos7.vbox
+-rw------- 1 ladniy ladniy       2985 мая 11 17:35 Centos7.vbox-prev
+-rw------- 1 ladniy ladniy 1703936000 мая 12 09:30 Centos7.vdi
+drwx------ 2 ladniy ladniy       4096 мая 11 17:40 Logs
+
+/home/ladniy/VirtualBox VMs/Centos7/Logs:
+итого 384
+-rw------- 1 ladniy ladniy  77657 мая 12 09:21 VBox.log
+-rw------- 1 ladniy ladniy 172388 мая 11 17:36 VBox.log.1
+-rw------- 1 ladniy ladniy 138298 мая  9 23:01 VBox.log.2
+
+/home/ladniy/VirtualBox VMs/Ubuntu 18:
+итого 56
+drwx------ 2 ladniy ladniy    4096 мая 11 17:38 Logs
+-rw------- 1 ladniy ladniy    2800 мая 11 17:38 Ubuntu 18.vbox
+-rw------- 1 ladniy ladniy    2855 мая 11 17:38 Ubuntu 18.vbox-prev
+-rw------- 1 ladniy ladniy 2097152 мая 11 17:38 Ubuntu 18.vdi
+
+/home/ladniy/VirtualBox VMs/Ubuntu 18/Logs:
+итого 112
+-rw------- 1 ladniy ladniy 113988 мая 11 17:38 VBox.log
+
+/home/ladniy/Видео:
+итого 0
+
+/home/ladniy/Документы:
+итого 4
+drwxrwxr-x 5 ladniy ladniy 4096 мая 12 09:23 ViberDownloads
+
+/home/ladniy/Документы/ViberDownloads:
+итого 23712
+-rw-rw-r-- 1 ladniy ladniy    60416 мая 11 09:37 0-02-01-1e6472745cce662b175c6115c791779604872c54ee7a86f9912762814fe7c6cf_1f93a2c6221f49.jpg
+-rw-rw-r-- 1 ladniy ladniy  3198336 мая  9 22:55 0-02-05-1a3efadd84232813a7908b0ac1ef02e34a12df525c53847a4cc47031e65df2f6_1f9cedff599200.mp4
+-rw-rw-r-- 1 ladniy ladniy    37002 мая 11 09:37 0-02-05-1b9d728d02632e4e868a3ab79755868be3954d461e4f4a536b8a2c9d4488e3fb_1f93a2c6221c29.jpg
+-rw-rw-r-- 1 ladniy ladniy  5872482 мая 11 19:27 0-02-05-34d34f6b9eaba54a337994e42fa212e6c5c0ea49731817e262393a19d04695dd_206a603272830b.mp4
+-rw-rw-r-- 1 ladniy ladniy   239746 мая 11 09:37 0-02-05-661d53cb8d01acb39a8af11f2941ec960fbca57b519107489fb90ad7f85c1024_1f93a2c6221faf.jpg
+-rw-rw-r-- 1 ladniy ladniy   241826 мая 11 09:37 0-02-05-c9328fecf5f36f861c53c6a13addc2d04b3dd96e14784f66a290e9ce47b59b31_1f93a2c622019d.jpg
+-rw-rw-r-- 1 ladniy ladniy  2372929 мая 11 09:37 0-02-05-db0d5c9b4a561518d12cc49331d705579f4a4b9e475aca2103fdeccad1aac294_1f93a2c6220491.mp4
+-rw-rw-r-- 1 ladniy ladniy    48576 мая 11 19:27 0-02-05-ef5286eec3baa0e6ea15c4e3f380db4adc8c89d25728c16018ef6d27dd36c51d_206a603272fa0d.jpg
+-rw-rw-r-- 1 ladniy ladniy 10357275 мая  9 22:38 0-02-0a-02d9515eaa80b6590da288a7211da7906dde0e92e526eea68666d6e57a81a0ef_1f9cedff68160f.mp4
+-rw-rw-r-- 1 ladniy ladniy   213459 мая 11 09:37 0-02-0a-1888b2cbe10993500b3a96050e6cedab295fbd6cb4efc87cf1d8e6f6a0f28450_1f93a2c6221eef.jpg
+-rw-rw-r-- 1 ladniy ladniy   207606 мая 11 09:37 0-02-0a-21f8d216753a988a3080e1925ceb4c71c2040323a9781d942cf4a3f2947e395d_1f93a2c62204fb.jpg
+-rw-rw-r-- 1 ladniy ladniy    28001 мая 11 19:27 0-02-0a-27b271a67382472e5d3a11e18307577aff27d00edfb6d61ac34fef269cf9396a_206a6032728397.jpg
+-rw-rw-r-- 1 ladniy ladniy   202430 мая  9 22:46 0-02-0a-40266460876620fefaf32d7339b0b87009cc38b81353ca3b0d1588c22f12b32b_1f9cedff5189ea.jpg
+-rw-rw-r-- 1 ladniy ladniy    41259 мая  9 23:01 0-02-0a-5708005ef87a18a81345f625af9d7468cd9380e0f9b10f8bb76cf3a0ff50a499_1f9cedff436128.jpg
+-rw-rw-r-- 1 ladniy ladniy   250616 мая 11 09:37 0-02-0a-5f3add6e828171a9e601a8fa86935fcaabf8f371f39ae2601ecc787795524132_1f93a2c62213e5.jpg
+-rw-rw-r-- 1 ladniy ladniy    74742 мая  9 21:34 0-02-0a-61af8854677c6b094c8d2ff0f123953c37f6920f5bf2c4e86e3a0fba76c51ead_1f9cedff12119c.jpg
+-rw-rw-r-- 1 ladniy ladniy   244669 мая 11 09:37 0-02-0a-67fca8e1fd4a9266c96376f5b506c19970537c24fc013877fc58d6414b5edbc6_1f93a2c6221d0e.jpg
+-rw-rw-r-- 1 ladniy ladniy   200089 мая  9 21:47 0-02-0a-88859552052213f2c884d11d59d6c76a730606f268cdd2e2cd4beecfb4c4d563_1f9cedff078855.jpg
+-rw-rw-r-- 1 ladniy ladniy   104495 мая 11 09:37 0-02-0a-a96b1c09c6552ccb6e6c1048d4dd2f0c5a8ebba1e283a249de49732aa7630179_1f93a2c6221df9.jpg
+-rw-rw-r-- 1 ladniy ladniy   167742 мая 11 09:37 0-02-0a-f4a6464db69abc614920943feb6345136b8c7c32e6ec22e1baed2de98922d5d0_1f93a2c6220100.jpg
+-rw-rw-r-- 1 ladniy ladniy    61602 мая 11 09:37 0-02-0a-f8889a42ab0a4bf0fe784633e718a6fa24305a2c9a631b25c89dd134e1b1f032_1f93a2c6220027.jpg
+drwxrwxr-x 2 ladniy ladniy     4096 мая  9 21:32 PTT
+drwxrwxr-x 2 ladniy ladniy     4096 мая 11 10:32 PublicAccountMedia
+drwxrwxr-x 2 ladniy ladniy     4096 мая 11 19:27 Temporary
+
+/home/ladniy/Документы/ViberDownloads/PTT:
+итого 0
+
+/home/ladniy/Документы/ViberDownloads/PublicAccountMedia:
+итого 2660
+-rw-rw-r-- 1 ladniy ladniy 2722136 мая 11 10:32 GIF-73718e37ee149936ff960ca6096c6d33.gif
+
+/home/ladniy/Документы/ViberDownloads/Temporary:
+итого 0
+
+/home/ladniy/Загрузки:
+итого 5481432
+-rw-rw-r-- 1 ladniy ladniy 1085276160 мая  9 21:45 CentOS-7-x86_64-Minimal-2003.iso
+-rw-rw-r-- 1 ladniy ladniy     802884 мая 11 12:07 Lecture 4.6s.pdf
+-rw-rw-r-- 1 ladniy ladniy    1123679 мая 12 09:57 Lecture 4.7s.pdf
+-rw-rw-r-- 1 ladniy ladniy    1943649 мая 12 09:59 Lecture 4.8s.pdf
+-rw-rw-r-- 1 ladniy ladniy      11047 мая  9 22:33 Microsoft® Windows® 7 Ultimate Ru x64 SP1 7DB by OVGorskiy® 02.2020 [rutracker-5854260].torrent
+-rw-rw-r-- 1 ladniy ladniy     326945 мая 12 10:16 task4_6.docx
+-rw-rw-r-- 1 ladniy ladniy    1138605 мая 12 09:56 task4_7.docx
+-rw-rw-r-- 1 ladniy ladniy      13544 мая 12 09:58 task4_8.docx
+drwxr-xr-x 2 ladniy ladniy       4096 мая 12 10:07 Telegram Desktop
+-rw-rw-r-- 1 ladniy ladniy   94598834 мая  9 21:30 viber.deb
+-rw-r--r-- 1 ladniy ladniy 4427710464 мая  9 22:56 Windows 7 Ultimate SP1 Ru x64 7DB by OVGorskiy 02.2020.iso
+
+/home/ladniy/Загрузки/Telegram Desktop:
+итого 4372
+-rw-r--r-- 1 ladniy ladniy 4473909 мая  9 21:48 IMG_9003.JPG
+
+/home/ladniy/Изображения:
+итого 180
+-rw-rw-r-- 1 ladniy ladniy 180937 мая 12 09:41 Снимок экрана от 2020-05-12 09-41-32.png
+
+/home/ladniy/Музыка:
+итого 0
+
+/home/ladniy/Общедоступные:
+итого 0
+
+/home/ladniy/Рабочий стол:
+итого 4
+drwxrwxr-x 2 ladniy ladniy 4096 мая 11 11:37 f
+
+/home/ladniy/Рабочий стол/f:
+итого 0
+
+/home/ladniy/Шаблоны:
+итого 0

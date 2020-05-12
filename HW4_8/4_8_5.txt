@@ -1,0 +1,5 @@
+итого 16
+-rwxr-xr-x 1 ladniy ladniy  66 мая 12 10:28 4_8_1.sh
+-rwxr-xr-x 1 ladniy ladniy  76 мая 12 10:50 4_8_2a.sh
+-rwxr-xr-x 1 ladniy ladniy 125 мая 12 11:07 4_8_2b.sh
+-rwxr-xr-x 1 ladniy ladniy 435 мая 12 11:26 4_8_and_others.sh
